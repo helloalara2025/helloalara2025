@@ -1,4 +1,4 @@
-# welcome to my corner of the internet
+# 🖼️ welcome to my corner of the internet 🪞
 
 MS Computer Science @ Northeastern | Former Senior Product Designer @ Slalom 
 
@@ -9,7 +9,7 @@ Spent three years designing for clients and led user research, designed interfac
 
 **Research interests:** Human-Computer Interaction · Natural Language Processing · AI-augmented research
 
-## 🎯 Seeking 2026 Co-ops & Internships
+## [AVAILABLE] Seeking 2026 Co-ops & Internships
 
 Looking for co-op positions where I can leverage my unique combination of design thinking and technical skills. What I bring:
 
