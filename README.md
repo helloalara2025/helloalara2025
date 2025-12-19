@@ -1,4 +1,4 @@
-# Alara Hakki
+# welcome to my corner of the internet
 
 MS Computer Science @ Northeastern | Former Senior Product Designer @ Slalom 
 
