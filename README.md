@@ -73,4 +73,4 @@ Industry thesis in partnership with frog design
 
 **📍 Boston, MA** · **📧 hakki.a@northeastern.edu** · **💼 [LinkedIn](https://www.linkedin.com/in/alarahakki/)**
 
-**Actively seeking January 2026 co-op opportunities**
+**Actively seeking  2026 co-op opportunities**
