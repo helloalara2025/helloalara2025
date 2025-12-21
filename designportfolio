@@ -1,54 +1,67 @@
-## Featured Case Studies
 
-### Kawasaki — Rail Inspection Platform
-**Digital Product Design · End-to-End**
+## 📁 Featured Case Studies
 
-Redesigned AI-powered rail inspection system for engineers analyzing train infrastructure. Conducted field research to understand workflows under pressure, improved data visualization clarity, reducing inspection time by 40%.
-
-**[View case study →](https://alara.framer.website/work/kawasaki)**
-
----
-
-### Sonder — Enhancing Gen Z Connections
-**Mobile App Design · Product Strategy**
-
-Designed mobile experience to strengthen social connections among Gen Z users. Led unmoderated testing and user research to identify engagement opportunities and design solutions promoting meaningful interactions.
-
-**[View case study →](https://alara.framer.website/work/sonder)**
-
----
-
-### Canary Speech — AI Speech Recognition
-**Mobile App Design · Product Strategy**
-
-Designed MVP for AI-driven voice analysis platform supporting mental health diagnostics. Conducted research with clinicians and patients to inform product vision. Design contributed to securing $13M Series A funding.
-
-**[View case study →](https://alara.framer.website/work/canary-speech-ai-speech-recognition)**
+```
+design-portfolio/
+│
+├── 01_kawasaki/
+│   ├── Digital Product Design · End-to-End
+│   ├── Redesigned AI-powered rail inspection system for engineers
+│   ├── 40% reduction in inspection time
+│   └── [View case study →](https://alara.framer.website/work/kawasaki)
+│
+├── 02_sonder/
+│   ├── Mobile App Design · Product Strategy
+│   ├── Designed mobile experience for Gen Z social connections
+│   ├── Led user research and unmoderated testing
+│   └── [View case study →](https://alara.framer.website/work/sonder)
+│
+└── 03_canary-speech/
+    ├── Mobile App Design · Product Strategy
+    ├── AI-driven voice analysis for mental health diagnostics
+    ├── $13M Series A funding secured
+    └── [View case study →](https://alara.framer.website/work/canary-speech-ai-speech-recognition)
+```
 
 ---
 
-## Other Selected Work
+## 📂 Other Selected Work
 
-### AI Financial Advisor — Smartly
-Designed AI-driven financial planning platform, ensuring seamless integration of complex technologies into intuitive user interfaces. Bridged technical challenges with user-friendly solutions.
-
-### Fertility Out Loud — Interactive Eligibility Tool
-Created survey-based platform helping users navigate sensitive fertility decisions. Designed user-centered tool bridging emotional and functional challenges with compassionate, streamlined experience.
-
-### UCLA Health — Appointment Booking Redesign
-Redesigned patient appointment booking system for better usability. Simplified the process and integrated smoothly into existing systems, resulting in **482% increase in online appointment requests**.
-
-### Nomix Life Sciences — Marketing Website & Brand Identity
-Led UX/UI design in fast-paced agile environment. Collaborated with client, engineers, and graphic designers to build website and brand identity from 0 to 1.
+```
+additional-projects/
+│
+├── smartly-ai/
+│   └── AI-driven financial planning platform
+│       └── Bridged technical challenges with intuitive UX
+│
+├── fertility-out-loud/
+│   └── Interactive eligibility tool for fertility decisions
+│       └── Compassionate, streamlined experience
+│
+├── ucla-health/
+│   └── Appointment booking redesign
+│       └── 482% increase in online appointments
+│
+└── nomix-life-sciences/
+    └── Marketing website & brand identity (0 to 1)
+        └── Fast-paced agile environment
+```
 
 ---
 
-## Experience Timeline
+## 💼 Experience Timeline
 
-**Senior Designer** — Slalom Build (2021-2024)
-
-**Product Designer** — frog / MHCI+D (2021)
-
-**UX Designer** — Harvard Business Publishing (2020)
+```
+career/
+│
+├── 2021-2024/
+│   └── Senior Designer @ Slalom Build
+│
+├── 2021/
+│   └── Product Designer @ frog / MHCI+D
+│
+└── 2020/
+    └── UX Designer @ Harvard Business Publishing
+```
 
 ---
