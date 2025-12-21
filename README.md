@@ -41,7 +41,6 @@ Looking for co-op positions where I can leverage my unique combination of design
 **Fertility Out Loud** — Created personalized fertility guidance tool through sensitive user research addressing complex health decisions.
 
 ## Experience
-https://github.com/helloalara2025/helloalara2025/blob/main/designportfolio
 **Senior Product Designer** — Slalom & frog (2021-2024)  
 Led end-to-end product design for Fortune 500 clients across healthcare, transportation, and AI platforms. Conducted user research, created high-fidelity prototypes, partnered with engineering to ship production features.
 
