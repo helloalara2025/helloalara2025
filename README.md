@@ -1,6 +1,6 @@
 # 🖼️ welcome to my corner of the internet 🪞
 
-MS Computer Science @ Northeastern | Former Senior Product Designer @ Slalom 
+MS Computer Science @ Northeastern | ((2021-2024) UX Designer @ Slalom)
 
 ## About
 
