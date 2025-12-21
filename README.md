@@ -5,7 +5,7 @@ MS Computer Science @ Northeastern | Former Senior Product Designer @ Slalom
 ## About
 
 I bridge user research, product design, and software engineering—understanding what users need and how to build it.
-Spent three years designing for clients and led user research, designed interfaces, and partnered with engineering teams to ship features with measurable impact.
+3+ years in product design, user research, working with engineering teams to ship features with measurable impact.
 
 **Research interests:** Human-Computer Interaction · Natural Language Processing · AI-augmented research
 
