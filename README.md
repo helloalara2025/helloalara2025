@@ -17,8 +17,6 @@ Looking for co-op positions where I can leverage my unique combination of design
 - **Technical foundation** — Full-stack development (React, Node.js, Java, Python), CS fundamentals (algorithms, data structures)
 - **Quick learner** — Transitioning from design to CS 
 
-## Tech Stack
-
 **Languages:** Python · Java · JavaScript · C  
 **Frontend:** React · Next.js · HTML/CSS  
 **Backend:** Node.js · Express  
