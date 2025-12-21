@@ -13,10 +13,8 @@ I bridge user research, product design, and software engineering—understanding
 
 Looking for co-op positions where I can leverage my unique combination of design thinking and technical skills. What I bring:
 
-- **User-centered mindset** — 3+ years conducting research and shipping products people actually use
 - **Cross-functional collaboration** — Proven track record working with engineering teams in agile environments  
 - **Technical foundation** — Full-stack development (React, Node.js, Java, Python), CS fundamentals (algorithms, data structures)
-- **Demonstrated impact** — Delivered measurable results (40%+ improvements) for Fortune 500 clients
 - **Quick learner** — Transitioning from design to CS 
 
 ## Tech Stack
