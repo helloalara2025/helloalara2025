@@ -44,8 +44,6 @@ Looking for co-op positions where I can leverage my unique combination of design
 
 **Fertility Out Loud** — Created personalized fertility guidance tool through sensitive user research addressing complex health decisions.
 
-**Haven (Eli Lilly Design Labs)** — Designed speculative chronic pain management platform emphasizing accessibility and equitable design.
-
 ## Experience
 
 **Senior Product Designer** — Slalom & frog (2021-2024)  
