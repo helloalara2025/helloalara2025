@@ -1,21 +1,12 @@
 # 🖼️ welcome to my corner of the internet 🪞
 
-MS Computer Science @ Northeastern | ((2021-2024) UX Designer @ Slalom)
+MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 
 ## About
 
 I bridge user research, product design, and software engineering—understanding what users need and how to build it.
-3+ years in product design, user research, working with engineering teams to ship features with measurable impact.
-
-**Research interests:** Human-Computer Interaction · Natural Language Processing · AI-augmented research
 
 ## [AVAILABLE] Seeking 2026 Co-ops & Internships
-
-Looking for co-op positions where I can leverage my unique combination of design thinking and technical skills. What I bring:
-
-- **Cross-functional collaboration** — Proven track record working with engineering teams in agile environments  
-- **Technical foundation** — Full-stack development (React, Node.js, Java, Python), CS fundamentals (algorithms, data structures)
-- **Quick learner** — Transitioning from design to CS 
 
 **Languages:** Python · Java · JavaScript · C  
 **Frontend:** React · Next.js · HTML/CSS  
@@ -30,7 +21,7 @@ Looking for co-op positions where I can leverage my unique combination of design
 
 **[mastermind-game](https://github.com/helloalara2025/mastermind-game)** — Python logic game demonstrating object-oriented design and state management
 
-## Professional Work
+## Professional Work / UX Design Industry Work
 
 **Kawasaki Japan** — Redesigned AI-powered rail inspection system through field research with engineers. Improved data visualization, reduced inspection time 40%.
 
@@ -49,18 +40,21 @@ Designed educational platform features for diverse learning audiences.
 
 ## Education
 
-**Northeastern University** — MS Computer Science, 3.8 GPA (Expected May 2027)  
+**Northeastern University** — MS Computer Science, 2027
 Relevant coursework: Algorithms, Object-Oriented Design, Data Structures, Web Development
 
-**University of Washington** — MS Human-Computer Interaction + Design, 3.8 GPA  
+**University of Washington** — MS Human-Computer Interaction + Design 
 Industry thesis in partnership with frog design
 
-## Core Strengths
+**Northeastern University** — BFA Design
 
-**Proven Impact** — Shipped features improving efficiency 40%+, contributed to products raising millions  
-**Research Excellence** — Led studies with diverse users (engineers, clinicians, patients) shaping product strategy  
-**Technical Skills** — Building full-stack applications, learning CS fundamentals at top-tier pace  
-**Cross-functional Bridge** — Translate seamlessly between user insights, design decisions, and technical constraints
+
+## To Remember
+
+**Proven Impact** — Shipped features improving efficiency 
+**Research-ed** — Led studies with diverse users (engineers, clinicians, patients) shaping product strategy  
+**Technical Skills** — Full-stack dev, product design, product lifecycle  
+**Bridges** — Translate seamlessly between user insights, design decisions, and technical constraints
 
 ---
 
