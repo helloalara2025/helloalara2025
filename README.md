@@ -2,10 +2,6 @@
 
 MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 
-## About
-
-I bridge user research, product design, and software engineering—understanding what users need and how to build it.
-
 ## [AVAILABLE] Seeking 2026 Co-ops & Internships
 
 **Languages:** Python · Java · JavaScript · C  
