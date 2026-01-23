@@ -9,15 +9,16 @@ MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 **Backend:** Node.js · Express  
 **Tools:** Git · Figma · JUnit
 
-## Projects
+## [CS] Project Highlights
 
-**[kambaz-project](https://github.com/helloalara2025/kambaz-project)** — Full-stack LMS with React/Node.js, exploring scalable educational platform architecture
+**[kambaz-lms] : Full-stack learning management system with responsive UI, REST API, and server-side rendering - react nextjs nodejs mongodb express full-stack rest-api responsive-design typescript
 
-**[image-processor](https://github.com/helloalara2025/image-processor)** — Java image editor implementing MVC pattern with comprehensive JUnit test suite
+**[image-editor] : Python game-development oop swing event-driven gui state-management - java junit testing MVC 
 
-**[mastermind-game](https://github.com/helloalara2025/mastermind-game)** — Python logic game demonstrating object-oriented design and state management
+**[codebreaker-game] : Puzzle game with event-driven GUI, game state management, and leaderboard tracking in Python - python game-development oop swing event-driven gui state-management
 
-## Professional Work / UX Design Industry Work
+
+## [Product Design ] Industry Experience
 
 **Kawasaki Japan** — Redesigned AI-powered rail inspection system through field research with engineers. Improved data visualization, reduced inspection time 40%.
 
@@ -27,12 +28,6 @@ MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 
 **Fertility Out Loud** — Created personalized fertility guidance tool through sensitive user research addressing complex health decisions.
 
-## Experience
-**Senior Product Designer** — Slalom & frog (2021-2024)  
-Led end-to-end product design for Fortune 500 clients across healthcare, transportation, and AI platforms. Conducted user research, created high-fidelity prototypes, partnered with engineering to ship production features.
-
-**UX Designer** — Harvard Business Publishing (2021)  
-Designed educational platform features for diverse learning audiences.
 
 ## Education
 
