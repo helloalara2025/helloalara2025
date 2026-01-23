@@ -9,7 +9,7 @@ MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 **Backend:** Node.js · Express  
 **Tools:** Git · Figma · JUnit
 
-## [CS] Project Highlights
+## [CS] Projects 2025-2026
 
 **[kambaz-lms] : Full-stack learning management system with responsive UI, REST API, and server-side rendering - react nextjs nodejs mongodb express full-stack rest-api responsive-design typescript
 
@@ -18,7 +18,7 @@ MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 **[codebreaker-game] : Puzzle game with event-driven GUI, game state management, and leaderboard tracking in Python - python game-development oop swing event-driven gui state-management
 
 
-## [Product Design ] Industry Experience
+## [Product Design] Industry Experience 2020-2024
 
 **Kawasaki Japan** — Redesigned AI-powered rail inspection system through field research with engineers. Improved data visualization, reduced inspection time 40%.
 
