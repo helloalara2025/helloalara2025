@@ -13,7 +13,7 @@ MS Computer Science @ Northeastern 2027 | ((2021-2024) UX Designer @ Slalom)
 
 **[kambaz-lms] : Full-stack learning management system with responsive UI, REST API, and server-side rendering - react nextjs nodejs mongodb express full-stack rest-api responsive-design typescript
 
-**[image-editor] : Python game-development oop swing event-driven gui state-management - java junit testing MVC 
+**[image-editor] : java oop swing event-driven gui state-management - java junit testing MVC 
 
 **[codebreaker-game] : Puzzle game with event-driven GUI, game state management, and leaderboard tracking in Python - python game-development oop swing event-driven gui state-management
 
