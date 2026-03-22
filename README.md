@@ -1,6 +1,6 @@
 # 🖼️ Welcome to my corner of the internet
 
-**MS Computer Science @ Northeastern 2027** | **Ex-UX Designer @ Slalom**
+**MS Computer Science @ Northeastern 2027** | **Background in UX: designportfolio**
 
 ## 🎯 Seeking 2026 Co-ops & Internships
 I bridge the gap between complex technical constraints and intuitive user experiences.
