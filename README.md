@@ -1,6 +1,6 @@
 # 🖼️ Welcome to my corner of the internet
 
-**MS Computer Science @ Northeastern 2027** | **Background in UX, portfolio here: helloalara2025/designportfolio**
+**MS Computer Science @ Northeastern 2027** | **Background in User Experience Design**
 
 ## 🎯 Seeking 2026 Co-ops & Internships
 I bridge the gap between complex technical constraints and intuitive user experiences.
