@@ -14,13 +14,13 @@
 ### Product Design Projects & UX Design Case Studies
 
 * **Kawasaki: AI Rail Inspection** *Redesigned an AI-powered rail inspection system for engineers.*  **Impact:** 40% reduction in inspection time.  
-  🔗 [View Case Study](https://alara.framer.website/work/kawasaki)
+   [View Case Study](https://alara.framer.website/work/kawasaki)
 
 * **Sonder: Gen Z Social App** *Mobile product strategy and experience design for social connection.*  **Focus:** Led user research and unmoderated testing.  
-  🔗 [View Case Study](https://alara.framer.website/work/sonder)
+   [View Case Study](https://alara.framer.website/work/sonder)
 
 * **Canary Speech: Mental Health AI** *Voice analysis for clinical diagnostics.*  **Impact:** Secured $13M Series A funding.  
-  🔗 [View Case Study](https://alara.framer.website/work/canary-speech-ai-speech-recognition)
+   [View Case Study](https://alara.framer.website/work/canary-speech-ai-speech-recognition)
 
 
 ---
