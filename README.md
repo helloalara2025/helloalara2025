@@ -1,6 +1,4 @@
 **MS Computer Science @ Northeastern 2027** | **Background in User Experience Design**
-** Resume: https://drive.google.com/file/d/1nYaNSXs22vZ4jlO5eo47hKQ_mivvTyUh/view?usp=sharing **
-
 
 ### Technical Toolbox
 * **Languages:** Python · Java · JavaScript · C
