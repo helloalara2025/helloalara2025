@@ -1,6 +1,7 @@
 # 🖼️ Welcome to my corner of the internet
 
 **MS Computer Science @ Northeastern 2027** | **Background in User Experience Design**
+** Resume: https://drive.google.com/file/d/1nYaNSXs22vZ4jlO5eo47hKQ_mivvTyUh/view?usp=sharing **
 
 ## 🎯 Seeking 2026 Co-ops & Internships
 I bridge the gap between complex technical constraints and intuitive user experiences.
