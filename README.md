@@ -1,9 +1,6 @@
-# Welcome to my online collection of work and experiences 
-
 **MS Computer Science @ Northeastern 2027** | **Background in User Experience Design**
 ** Resume: https://drive.google.com/file/d/1nYaNSXs22vZ4jlO5eo47hKQ_mivvTyUh/view?usp=sharing **
 
-## Seeking 2026 Co-ops & Internships
 
 ### Technical Toolbox
 * **Languages:** Python · Java · JavaScript · C
