@@ -6,7 +6,6 @@ I build software with a design-informed perspective. Currently seeking **Summer/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alarahakki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alarahakki/)
 [![Email](https://img.shields.io/badge/Email-hakki.a@northeastern.edu-red?style=flat&logo=gmail)](mailto:hakki.a@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-alara.framer.website-black?style=flat&logo=framer)](https://alara.framer.website)
 
 ---
 
