@@ -29,8 +29,7 @@ I build software with a design-informed perspective. Currently seeking **Summer/
 
 ---
 
-### Where Design Meets Engineering
-A few highlights:
+### Product Design Portfolio
 
 | Project | What I did | Result |
 | :--- | :--- | :--- |
@@ -41,7 +40,3 @@ A few highlights:
 
 ---
 
-### GitHub Activity
-
-![Alara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloalara2025&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloalara2025&layout=compact&hide_border=true)
