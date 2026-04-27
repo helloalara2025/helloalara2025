@@ -2,7 +2,7 @@
 
 **MS Computer Science @ Northeastern (2027)** · Previously MS HCI+D @ University of Washington · 3+ years in product design
 
-I build software with a design-informed perspective. Currently seeking **Summer/Fall 2026 co-ops** in software engineering, full-stack development, or product engineering.
+Building oftware with a design-informed perspective. 
 
 [![Portfolio](https://img.shields.io/badge/Design_Portfolio-View_Work-black?style=flat)](https://github.com/helloalara2025/design-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alarahakki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alarahakki/)
