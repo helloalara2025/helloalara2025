@@ -1,6 +1,8 @@
-# Hi, I'm Alara 👋
+# Hello, I'm Alara, welcome to my directory of projects
 
 **MS Computer Science @ Northeastern (2027)** · building software with a design-informed perspective. 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alarahakki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alarahakki/)
 [![Email](https://img.shields.io/badge/Email-hakki.a@northeastern.edu-red?style=flat&logo=gmail)](mailto:hakki.a@northeastern.edu)
 
