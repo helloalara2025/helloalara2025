@@ -1,10 +1,6 @@
 # Hi, I'm Alara 👋
 
-**MS Computer Science @ Northeastern (2027)** · Previously MS HCI+D @ University of Washington · 3+ years in product design
-
-Building oftware with a design-informed perspective. 
-
-[![Portfolio](https://img.shields.io/badge/Design_Portfolio-View_Work-black?style=flat)](https://github.com/helloalara2025/design-portfolio)
+**MS Computer Science @ Northeastern (2027)** · building software with a design-informed perspective. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alarahakki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alarahakki/)
 [![Email](https://img.shields.io/badge/Email-hakki.a@northeastern.edu-red?style=flat&logo=gmail)](mailto:hakki.a@northeastern.edu)
 
@@ -29,7 +25,7 @@ Building oftware with a design-informed perspective.
 
 ---
 
-### Product Design Portfolio
+### Product Design Portfolio - I worked as a full time product designer at junior and senior levels between 2021 and 2025.
 
 | Project | What I did | Result |
 | :--- | :--- | :--- |
