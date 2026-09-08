@@ -1,20 +1,4 @@
-# 🛎️ welcome to my online project directory
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alarahakki-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alarahakki/)
-[![Email](https://img.shields.io/badge/Email-hakki.a@northeastern.edu-red?style=flat&logo=gmail)](mailto:hakki.a@northeastern.edu)
-
-**MS Computer Science @ Northeastern (2027)** · building software with a design-informed perspective. 
-
----
-
-### Tech Stack
-
-**Languages:** Python · Java · JavaScript · C  
-**Frontend:** React · Next.js · HTML/CSS · Tailwind  
-**Backend:** Node.js · Express · MongoDB · REST APIs  
-**Tools:** Git · Figma · JUnit
-
----
+# my online project directory
 
 ### Engineering Projects
 
@@ -26,7 +10,7 @@
 
 ---
 
-### Product Design Portfolio - I worked as a full time product designer at junior and senior levels between 2021 and 2025.
+### Product Design Projects as a full time product designer 
 
 | Project | What I did | Result |
 | :--- | :--- | :--- |
@@ -36,4 +20,3 @@
 | **Sonder** | Mobile product strategy and user research for Gen Z social app | Led unmoderated testing and research |
 
 ---
-
