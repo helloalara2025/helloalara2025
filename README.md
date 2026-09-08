@@ -1,4 +1,4 @@
-# my online project directory
+# project directory
 
 ### Engineering Projects
 
